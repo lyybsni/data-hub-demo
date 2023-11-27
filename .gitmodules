@@ -1,3 +1,6 @@
 [submodule "data-hub-service"]
 	path = data-hub-service
 	url = https://github.com/lyybsni/data-hub-service.git
+[submodule "data-hub-schema"]
+	path = data-hub-schema
+	url = https://github.com/lyybsni/data-hub-schema.git
