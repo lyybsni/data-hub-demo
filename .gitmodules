@@ -4,3 +4,6 @@
 [submodule "data-hub-schema"]
 	path = data-hub-schema
 	url = https://github.com/lyybsni/data-hub-schema.git
+[submodule "data-hub-django-provider"]
+	path = data-hub-django-provider
+	url = https://github.com/lyybsni/data-hub-django-provider
