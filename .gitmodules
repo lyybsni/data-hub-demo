@@ -7,3 +7,6 @@
 [submodule "data-hub-django-provider"]
 	path = data-hub-django-provider
 	url = https://github.com/lyybsni/data-hub-django-provider
+[submodule "data-hub-flask-consumer"]
+	path = data-hub-flask-consumer
+	url = https://github.com/lyybsni/data-hub-flask-consumer.git
